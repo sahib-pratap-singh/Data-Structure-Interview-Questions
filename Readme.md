@@ -12,8 +12,8 @@
 ### Q2. Given a linked list, which algorithm is best to sort it ?
 
     Merge sort is often preferred for sorting a linked list. The slow random-access
-     performance of a linked list makes some other algorithms (such as quicksort) perform 
-     poorly, and others (such as heapsort) completely impossible. 
+    performance of a linked list makes some other algorithms (such as quicksort) perform 
+    poorly, and others (such as heapsort) completely impossible. 
 
 ### Q3. Which data structure is used for function calls and recursion ?
 
@@ -25,7 +25,9 @@
 
 * FIFO
 
-        FIFO is an abbreviation for first in, first out. It is a method for handling data structures where the first element is processed first and the newest element is processed last. 
+        FIFO is an abbreviation for first in, first out. It is a method for handling data
+        structures where the first element is processed first and the newest element is 
+        processed last. 
 
         Real Life application
 
@@ -37,7 +39,9 @@
 
 * LIFO
 
-        LIFO is an abbreviation for Last in, first out is same as first in, last out (FILO). It is a method for handling data structures where the last element is processed first and the first element is processed last. 
+        LIFO is an abbreviation for Last in, first out is same as first in, last out (FILO).
+        It is a method for handling data structures where the last element is processed first
+        and the first element is processed last. 
 
         Real Life application
 
@@ -47,6 +51,7 @@
         4. Forward – backward surfing in browser
         5. History of visited websites
         6. Message logs and all messages you get are arranged in stack
-        7. Call logs, E-mails, Google photos’ any gallery , YouTube downloads, Notifications ( latest appears first )
+        7. Call logs, E-mails, Google photos’ any gallery , YouTube downloads, 
+        Notifications ( latest appears first )
         8. Scratch card’s earned after Google pay transaction.
 
