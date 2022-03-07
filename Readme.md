@@ -11,7 +11,9 @@
 
 ### Q2. Given a linked list, which algorithm is best to sort it ?
 
-    Merge sort is often preferred for sorting a linked list. The slow random-access performance of a linked list makes some other algorithms (such as quicksort) perform poorly, and others (such as heapsort) completely impossible. 
+    Merge sort is often preferred for sorting a linked list. The slow random-access
+     performance of a linked list makes some other algorithms (such as quicksort) perform 
+     poorly, and others (such as heapsort) completely impossible. 
 
 ### Q3. Which data structure is used for function calls and recursion ?
 
